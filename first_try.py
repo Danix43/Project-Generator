@@ -3,16 +3,6 @@ import argparse
 import os
 import venv
 
-"""
-TODO: - implement reading command line arguments for project nameing and folder generation
-        - the folder creation should be made based on the script's current location and the name provided by the user
-      - implement venv creation from script 
-      - implement repository creation from script
-        - create the readme, .gitignore and LICENCE from the script
-     !!! - Add integration with 174
-      - Add windows notifications for creating and created
-"""
-
 script_path = os.path.dirname(os.path.abspath(__file__))
 
 def create_dir(name_used):

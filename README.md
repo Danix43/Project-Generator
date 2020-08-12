@@ -12,8 +12,8 @@ A lightweight Python 3 script with it's main use of creating a sample project re
 ## Instalation
 
 This need the following libraries to work: 
-   * [PyGithub] (https://github.com/PyGithub/PyGithub)
+   * [PyGithub](https://github.com/PyGithub/PyGithub)
 
 ## License
 
-This program comes as it is and it's released on terms based of [GNU General Public License v3.0] (https://choosealicense.com/licenses/gpl-3.0/)
+This program comes as it is and it's released on terms based of [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)

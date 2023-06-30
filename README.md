@@ -1,6 +1,6 @@
 # Project-Generator
 
-A lightweight Python 3 script with it's main use of creating a sample project ready to imediatily use.
+A lightweight Python 3 script with it's main use of creating a sample project ready to use.
 
 ## Features
 
